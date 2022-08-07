@@ -15,3 +15,18 @@
 #### 1. Peningkatan konsentrasi PM2.5 dengan laju tertinggi 3,27 – 8,28 μg m-3 jam-1 terjadi ketika kondisi atmosfer stabil dan terdeteksi inversi suhu pada ketinggian <200m yang diduga dipicu oleh pendinginan radiasi permukaan akibat sedikitnya tutupan awan yang terdeteksi pada TBB diatas 253K pada malam hari.
 #### 2. Penurunan konsentrasi PM2.5 dengan laju tertinggi 3,45-12 μg m-3 jam-1 terjadi ketika tutupan awan rendah (LCC) dan menengah (MCC) pada malam hari diatas 40% dengan TBB dibawah 253K yang memicu pemanasan radiasi permukaan (ditandai dengan nilai STR sebesar -29,002 W/m2 yang lebih tinggi dari STR rata-rata pada bulan Desember -34,116 W/m2)
 
+## 3. SQL Course Project
+=> Pada projek pertama saya diminta untuk membuat database bernama tr_penjualan. Kemudian saya harus menghitung total penjualan dan kemudian ditugaskan untuk hanya menampilkan produk dengan total revenue yang lebih dari 100000.
+=> Pada projek kedua saya diminta untuk menghitung:	
+1. Total jumlah seluruh penjualan (total/revenue).
+2. Total quantity seluruh produk yang terjual.
+3. Total quantity dan total revenue untuk setiap kode produk.
+4. Rata - Rata total belanja per kode pelanggan.
+5. Menambahkan kolom baru dengan nama ‘kategori’ yang mengkategorikan total/revenue ke dalam 3 kategori: High: > 300K; Medium: 100K - 300K; Low: <100K.
+=> Pada projek ketiga saya diminta untuk:
+1. meng-query data-data pelanggan yang membeli produk Kotak Pensil DQLab, Flashdisk DQLab 32 GB, dan Sticky Notes DQLab 500 sheets menggunakan tabel ms_pelanggan dan tr_penjualan untuk mendapatkan data - data yang diminta oleh marketing yaitu kode_pelanggan, nama_customer, alamat.
+2. Menyiapkan hanya data produk dengan harga di bawah 100K untuk kode produk prod-1 sampai prod-5; dan dibawah 50K untuk kode produk prod-6 sampai prod-10, tanpa mencantumkan kolom no_urut.
+
+
+
+
